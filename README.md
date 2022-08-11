@@ -11,9 +11,12 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/AVS1508">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuliaSerrano&layout=compact&langs_count=8&theme=algolia"/>
+
+<p align="center">
+<a href="https://github.com/JuliaSerrano">
+    
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuliaSerrano&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 </p>
