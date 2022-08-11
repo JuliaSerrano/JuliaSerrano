@@ -12,7 +12,7 @@
 ### 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Engineering at Universidad Politecnica de Madrid.\
+🎓 &nbsp;I'm currently studying Computer Engineering at Universidad Politécnica de Madrid.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Machine Learning and Cloud.\
 🤸 &nbsp; In my free time, I like to play sports, travel and watch movies.
 
